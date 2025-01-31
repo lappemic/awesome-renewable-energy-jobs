@@ -8,7 +8,6 @@ A curated list of companies working on climate change, renewable energy, and sus
 
 - [Biomass Energy](#biomass-energy)
 - [Carbon Capture](#carbon-capture)
-- [Coal Mining](#coal-mining)
 - [Electric Vehicles](#electric-vehicles)
 - [Energy Consulting](#energy-consulting)
 - [Energy Efficiency](#energy-efficiency)
@@ -39,10 +38,6 @@ A curated list of companies working on climate change, renewable energy, and sus
 - [Anew Climate](https://boards.greenhouse.io/anewclimate)
 - [Carbon Direct](https://boards.greenhouse.io/carbondirect)
 - [Deep Sky](https://jobs.lever.co/deepsky)
-
-## Coal Mining
-
-- [EVR](https://jobs.lever.co/evr)
 
 ## Electric Vehicles
 
