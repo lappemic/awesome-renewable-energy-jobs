@@ -271,4 +271,4 @@ A curated list of companies working on climate change, renewable energy, and sus
 
 ## Contributing
 
-Any contributions ary highly welcome.
+Contributions are very welcome! Whether you're adding new company links, fixing broken URLs, or organizing companies into (new) sectors, feel free to submit a pull request. Please ensure career page links are direct and active before submitting.
