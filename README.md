@@ -269,6 +269,10 @@ A curated list of companies working on climate change, renewable energy, and sus
 - [Unison](https://jobs.lever.co/unisoninfra)
 - [Zartis](https://jobs.lever.co/zartis)
 
+## Related discovery resources
+
+- [SolarXlist](https://solarxlist.org/) — Global directory of solar, PV, and energy-storage companies (manufacturers, installers, EPCs, suppliers, distributors); useful for discovering employers by country, city, and role.
+
 ## Contributing
 
 Contributions are very welcome! Whether you're adding new company links, fixing broken URLs, or organizing companies into (new) sectors, feel free to submit a pull request. Please ensure career page links are direct and active before submitting.
